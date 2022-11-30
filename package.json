@@ -1,0 +1,21 @@
+{
+  "name": "bruhspicy-dark",
+  "displayName": "Bruhspicy Dark Theme",
+  "description": "Bruhspicy's VS Code theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bruhspicy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bruhspicy Dark-color-theme.json"
+      }
+    ]
+  }
+}
