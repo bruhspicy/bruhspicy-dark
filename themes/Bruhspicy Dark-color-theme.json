@@ -246,13 +246,13 @@
 		  }
 		},
 		{
-		  "scope": [
-			"constant.other.color"
-		  ],
-		  "settings": {
-			"foreground": "#FFD8C0"
-		  }
-		},
+			"scope": [
+			  "constant.other.color",
+			],
+			"settings": {
+			  "foreground": "#FFD8C0"
+			}
+		  },
 		{
 		  "scope": [
 			"invalid",
@@ -785,6 +785,14 @@
 		  "settings": {
 			"foreground": "#D2E8FF"
 		  }
-		}
+		},
+		{
+			"scope": [
+			  "comment.line.number-sign.python",
+			],
+			"settings": {
+			  "foreground": "#FFD8C080"
+			}
+		  },
 	  ]
   }
