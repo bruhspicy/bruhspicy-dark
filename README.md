@@ -8,7 +8,7 @@ This is my vs code theme! It's a darker theme, but not dark dark.
 
 Application Window:
 
-![image](https://user-images.githubusercontent.com/96800313/204682017-48b62405-b04a-4b83-8550-861b9f74bcd3.png)
+![image](https://user-images.githubusercontent.com/96800313/204687974-8d9f5aeb-c4ef-4201-8890-ac0a698856d0.png)
 
 Python:
 
