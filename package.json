@@ -4,6 +4,7 @@
   "description": "Bruhspicy's VS Code theme!",
   "version": "0.0.1",
   "publisher": "Bruhspicy",
+  "icon": "bruhspicy-dark-logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/bruhspicy/bruhspicy-dark"
