@@ -12,7 +12,7 @@ Application Window:
 
 Python:
 
-![image](https://user-images.githubusercontent.com/96800313/204681855-cc7e521f-49eb-4ab1-822e-31d9bff382a3.png)
+![image](https://user-images.githubusercontent.com/96800313/204687847-4fa3a70c-2998-4ac0-b036-765022249f0d.png)
 
 Java:
 
