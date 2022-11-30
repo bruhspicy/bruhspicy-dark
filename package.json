@@ -3,6 +3,20 @@
   "displayName": "Bruhspicy Dark Theme",
   "description": "Bruhspicy's VS Code theme!",
   "version": "0.0.1",
+  "publisher": "Bruhspicy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bruhspicy/bruhspicy-dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "bruhspicy",
+    "blue",
+    "gold",
+    "bruhspicy dark"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },
